@@ -4,7 +4,7 @@ dist: trusty
 install: true
 addons:
   sonarcloud:
-    organization: "pru" # the key of the org you chose at step #3
+    organization: "alu0100996081-github" # the key of the org you chose at step #3
     token:
       secure: "7601f74bcc34a2cffb0519172f4599415184de8e" # encrypted value of your token
 script:
