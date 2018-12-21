@@ -2,11 +2,6 @@ language: java
 sudo: false
 dist: trusty
 install: true
-addons:
-  sonarcloud:
-    organization: "dcastell"
-    token:
-      secure: ""
 jdk:
   - oraclejdk8
 script:
